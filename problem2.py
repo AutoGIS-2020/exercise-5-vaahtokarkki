@@ -101,7 +101,7 @@ folium.Choropleth(
 title_html = '''<div style="padding: .5rem 10%;position: absolute;top: 10px;z-index: 9999999999;background-color: #ffffff70;">
 <h4>Where to build bike station based on distance to closest station and population?</h4><p>
     <br>Grid elements containing a bike station is filtered out and
-     for remaining squares a index is calculated. Index is calculated by population of
+     for remaining squares an arbitrary index is calculated. Index is calculated by population of
      square divided by distance from center of square to closest bike station.<br>
      This yields greater value for high population squares ar away from an existing bike
      station. The index is normalized by autoscaling and values bellow zero is filtered
