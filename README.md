@@ -71,8 +71,15 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+ Interesting and useful study about citybikes. Readable and visually pleasing maps, very nice that you masked the grid with the land area, it makes reading the map easier and more pleasant. Good use of functions, organized and compact code. You've  clearly paid attention to the efficiency since you're counting how long some processes are taking. This will play a bigger role especially with larger datasets. For some other work you might need to document some reasoning behind the classification and retrieval of the walking speed. Next you could start adding a scale bar and north arrow to the static maps :smile:
   
   
   
